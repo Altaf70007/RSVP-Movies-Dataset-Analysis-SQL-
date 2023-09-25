@@ -11,6 +11,8 @@ Welcome to the IMDb Dataset Analysis repository! 🎥
 
 As an IMDb data analyst and SQL expert, this repository contains a comprehensive analysis of movie data spanning the past three years. Our mission is to uncover hidden insights and trends that will inform the strategic decisions of RSVP Movies, a renowned Indian film production company. Their upcoming project in 2022 aims to captivate a global audience, and your analytical skills will shape the path to success.
 
+**Objective:** RSVP Movies aims to shift to a global audience in 2022 and seeks data-driven insights for their new project planning.
+
 ## Repository Contents
 
 - **SQL Scripts**: Dive into the heart of data analysis with SQL. Our segmented analysis covers various aspects of the movie dataset, offering unique insights in each segment.
